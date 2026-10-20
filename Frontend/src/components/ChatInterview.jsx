@@ -1,24 +1,7 @@
 import React, { useLayoutEffect, useRef, useState } from 'react';
 
 export default function ChatInterview({ onExploreProjects }) {
-  const [messages, setMessages] = useState([
-    {
-      sender: 'user',
-      text: "I'd like to learn more about your project experience. Can you tell me about a project you're particularly proud of?"
-    },
-    {
-      sender: 'amit',
-      text: "Absolutely! One project I'm very proud of is the 'Cloud-based E-commerce Platform' (featured above). I led the full-stack development, moving from a legacy monolithic architecture to a modern microservices setup on AWS. This improved scalability and reduced page load times by 40%."
-    },
-    {
-      sender: 'amit',
-      text: "I also worked on a machine learning project for predicting customer churn in a telecom context, achieving a high prediction accuracy using Python and Scikit-learn."
-    },
-    {
-      sender: 'amit',
-      text: "Which of these areas—Cloud, E-commerce, or Machine Learning—would you like me to elaborate on first?"
-    }
-  ]);
+  const [messages, setMessages] = useState([]);
 
   const [inputVal, setInputVal] = useState('');
   const messageListRef = useRef(null);
