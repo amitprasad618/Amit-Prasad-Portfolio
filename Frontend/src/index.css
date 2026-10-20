@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  background-color: #0f172a;
+  color: #1e293b;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.app-shell {
+  height: 100vh;
+  height: 100dvh;
+  overflow: hidden;
+}
+
+.dashboard-content {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+@media (min-width: 1024px) {
+  .dashboard-content {
+    overflow: hidden;
+  }
+
+  .dashboard-grid {
+    grid-template-rows: minmax(0, 1fr);
+  }
+}
+
+/* Shared train backdrop for the portfolio content. Keep the image prominent
+   while using a light wash to preserve contrast around foreground panels. */
+.train-bg {
+  --train-background-wash: 0.08;
+  position: relative;
+  isolation: isolate;
+  background-color: #e8f1f8;
+  background-image:
+    linear-gradient(
+      rgba(255, 255, 255, var(--train-background-wash)),
+      rgba(255, 255, 255, calc(var(--train-background-wash) + 0.06))
+    ),
+    url('/background_image.jpg');
+  background-size: cover;
+  background-position: center 58%;
+  background-repeat: no-repeat;
+  min-height: 0;
+}
+
+@media (max-width: 640px) {
+  .train-bg {
+    --train-background-wash: 0.12;
+    background-position: 72% center;
+  }
+}
