@@ -1,1 +1,5 @@
 .DS_Store
+Backend/.env
+Backend/venv/
+__pycache__/
+*.py[cod]
