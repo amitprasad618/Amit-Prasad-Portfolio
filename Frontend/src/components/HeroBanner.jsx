@@ -16,7 +16,7 @@ export default function HeroBanner() {
               AMIT PRASAD - SOFTWARE ENGINEER
             </h1>
             <p className="text-xs md:text-sm text-gray-700 font-medium">
-              Full-Stack Development | Cloud Computing | UI/UX | Project Management
+              Full-Stack Development | LLM, RAG, GenAI & AgentiAI | FastAPI, Python, React.js
             </p>
           </div>
         </div>

@@ -8,7 +8,7 @@ export default function PortfolioLinks() {
     <nav aria-label="Profile links" className="grid w-full grid-cols-1 gap-2 px-2 py-3 min-[420px]:grid-cols-2 lg:grid-cols-3">
       <a href="#cv" className={linkStyle}>
         <FileText aria-hidden="true" className="h-4 w-4 text-orange-300" />
-        Download My CV (PDF)
+        Print Ticket (Resume PDF)
       </a>
       <a href="https://github.com/amitprasad618" target="_blank" rel="noopener noreferrer" className={linkStyle}>
         <CodeXml aria-hidden="true" className="h-4 w-4 text-orange-300" />

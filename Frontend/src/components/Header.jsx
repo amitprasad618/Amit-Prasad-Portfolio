@@ -17,9 +17,9 @@ export default function Header() {
   return (
     <div className="shrink-0 bg-[#1b365d] text-white text-[11px] py-1 px-3 flex justify-center items-center border-b border-blue-900 min-h-8">
       <div aria-label="Portfolio status" className="flex flex-wrap items-center justify-center gap-x-2 text-center">
-        <span className="font-bold whitespace-nowrap">A. Prasad</span>
+        <span className="font-bold whitespace-nowrap">Amit Prasad</span>
         <span aria-hidden="true">|</span>
-        <span className="whitespace-nowrap">Portfolio Dashboard</span>
+        <span className="whitespace-nowrap">🇮🇳 Verified Engineer </span>
         <span aria-hidden="true">|</span>
         <time className="whitespace-nowrap">{currentTime}</time>
       </div>

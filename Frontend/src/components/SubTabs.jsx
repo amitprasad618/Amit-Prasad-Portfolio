@@ -1,12 +1,10 @@
 import React from 'react';
-import { CheckSquare, BookOpen, Award, MessageCircle } from 'lucide-react';
+import { CheckSquare, Award } from 'lucide-react';
 
 export default function SubTabs({ activeSubTab, setActiveSubTab }) {
   const tabs = [
     { id: 'work', label: 'WORK HISTORY', icon: CheckSquare },
-    { id: 'publications', label: 'PUBLICATIONS', icon: BookOpen },
     { id: 'awards', label: 'AWARDS', icon: Award },
-    { id: 'testimonials', label: 'TESTIMONIALS', icon: MessageCircle },
   ];
 
   return (

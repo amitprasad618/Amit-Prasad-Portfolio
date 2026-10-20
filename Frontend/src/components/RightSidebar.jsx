@@ -1,5 +1,4 @@
 import React from 'react';
-import { CodeXml } from 'lucide-react';
 
 export default function RightSidebar() {
   return (
@@ -7,7 +6,7 @@ export default function RightSidebar() {
       {/* Featured Project */}
       <div className="bg-white/90 rounded-lg shadow-lg border border-gray-300 overflow-hidden">
         <div className="bg-[#1b365d] text-white py-2 px-4 font-black text-xs md:text-sm tracking-wider flex items-center justify-between">
-          <span>FEATURED PROJECT (RECENT)</span>
+          <span>PROJECTS</span>
         </div>
         <div className="p-3 md:p-4">
           <div className="bg-gray-100 rounded border border-gray-200 p-2 mb-3">
@@ -21,28 +20,6 @@ export default function RightSidebar() {
           <p className="text-xs text-gray-600 mt-1 leading-relaxed">
             Full-stack commerce platform migrated to AWS microservices, with a reported 40% improvement in page load time.
           </p>
-        </div>
-      </div>
-
-      {/* Existing project highlight, used because the project has no verified award or talk data. */}
-      <div className="bg-white/90 rounded-lg shadow-lg border border-gray-300 overflow-hidden">
-        <div className="bg-[#1b365d] text-white py-2 px-4 font-black text-xs md:text-sm tracking-wider flex items-center justify-between">
-          <span>PROJECT HIGHLIGHT</span>
-        </div>
-        <div className="p-3 md:p-4">
-          <div className="flex items-start gap-3">
-            <div className="bg-orange-100 p-2 rounded text-orange-600 mt-1">
-              <CodeXml className="w-5 h-5" />
-            </div>
-            <div>
-              <h4 className="font-bold text-gray-900 text-xs md:text-sm">
-                Customer Churn Prediction
-              </h4>
-              <p className="text-xs text-gray-600 mt-1 leading-relaxed">
-                Telecom churn prediction project using Python and Scikit-learn.
-              </p>
-            </div>
-          </div>
         </div>
       </div>
     </div>
