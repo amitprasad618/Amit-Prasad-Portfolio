@@ -26,7 +26,7 @@ export default function HeroBanner() {
             Discover my journey, view my key projects and contact me for opportunities.
           </div>
           <a href="#projects" className="bg-[#d97736] hover:bg-orange-700 text-white text-xs md:text-sm font-bold px-4 py-2 rounded shadow transition whitespace-nowrap">
-            Explore Portfolio
+            Explore My Work
           </a>
         </div>
 

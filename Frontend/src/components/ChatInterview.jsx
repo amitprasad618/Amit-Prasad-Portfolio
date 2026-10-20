@@ -55,7 +55,7 @@ export default function ChatInterview({ onExploreProjects }) {
   return (
     <div className="bg-white/90 shadow-lg border border-gray-300 p-3 md:p-4 flex flex-col h-[min(50vh,400px)] min-h-[280px] lg:h-auto lg:min-h-0 lg:flex-1">
       <h2 className="text-center font-black text-blue-900 text-sm md:text-base mb-2 tracking-wide">
-        Talk to Amit's AI Assistant
+        Meet Amit, Beyond the Resume
       </h2>
 
       {/* Chat Messages container */}
