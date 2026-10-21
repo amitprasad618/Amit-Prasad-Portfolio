@@ -1,5 +1,10 @@
 .DS_Store
 Backend/.env
+Backend/.env.*
+!Backend/.env.example
 Backend/venv/
+Frontend/.env
+Frontend/.env.*
+!Frontend/.env.example
 __pycache__/
 *.py[cod]

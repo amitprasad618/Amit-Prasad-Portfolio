@@ -5,7 +5,7 @@ from app.routers import chat
 app = FastAPI(
     title="Amit Prasad Portfolio API",
     version="1.0.0",
-    description="FastAPI backend integrating xAI Grok API for conversational portfolio interactions."
+    description="FastAPI backend integrating Groq or xAI for conversational portfolio interactions."
 )
 
 # Configure CORS so your React frontend (running on localhost:5173 or deployed domain) can connect
@@ -22,4 +22,4 @@ app.include_router(chat.router)
 
 @app.get("/")
 def read_root():
-    return {"status": "online", "message": "Welcome to Amit Prasad's Portfolio API powered by FastAPI & Grok!"}
+    return {"status": "online", "message": "Welcome to Amit Prasad's Portfolio API powered by FastAPI and AI chat."}

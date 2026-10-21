@@ -11,11 +11,19 @@ python -m pip install --upgrade pip
 python -m pip install -r requirments.txt
 ```
 
-Create a `.env` file in this directory with your xAI API key:
+Create a `.env` file in this directory with the key for your chat provider.
+With a Groq key (`gsk_...`), the backend auto-selects Groq. To use xAI, set
+`CHAT_PROVIDER=xai` and provide an xAI API key.
 
 ```dotenv
-XAI_API_KEY=your-xai-api-key
-GROK_MODEL=grok-4-1-fast-non-reasoning
+GROQ_API_KEY=your-groq-api-key
+GROQ_MODEL=openai/gpt-oss-120b
+# Or use xAI instead:
+# CHAT_PROVIDER=xai
+# XAI_API_KEY=your-xai-api-key
+# GROK_MODEL=grok-4.7
+# Optional: enables semantic resume retrieval; local keyword retrieval works without it.
+JINA_API_KEY=your-jina-api-key
 ```
 
 Keep `.env` private and do not commit it.

@@ -3,3 +3,20 @@ uvicorn==0.34.3
 pydantic==2.10.6
 openai==1.59.7
 python-dotenv==1.0.1
+
+# Framework / Technology for ai agent
+langchain
+langchain-core
+langchain-community
+
+# LLM  Provider
+
+langchain-groq
+langchain-text-splitters
+
+# vector store
+faiss-cpu
+
+# notebook
+jupyter
+ipykernel

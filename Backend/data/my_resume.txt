@@ -1,0 +1,133 @@
+AMIT PRASAD Phone: +91-9584887488 Email: amitprasad618@gmail.com LinkedIn: LinkedIn profile GitHub: GitHub profile Location: Hyderabad, India
+
+PROFESSIONAL SUMMARY
+
+Software Engineer with 3.5+ years of experience building full-stack applications and AI-powered solutions. Experienced in developing Large Language Model (LLM) applications, Retrieval-Augmented Generation (RAG) pipelines, agentic AI workflows, and prompt-driven automation systems. Hands-on expertise in Python, FastAPI, React.js, REST APIs, Docker, Microsoft Azure, LangChain, LangGraph, semantic search, fine-tuning, and open-source LLMs.
+
+EDUCATION
+
+Indian Institute of Technology Guwahati (IIT Guwahati) Degree: Master of Technology (M.Tech) CGPA: 8.81 Location: Guwahati, India Graduation Year: 2019
+
+Oriental Institute of Science and Technology (OIST) Degree: Bachelor of Technology (B.Tech) in Mechanical Engineering CGPA: 7.74 Location: Bhopal, India Graduation Year: 2023
+
+TECHNICAL SKILLS
+
+AI and Large Language Models: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), RAG Pipelines, Multi-Agent Workflows, Agentic AI, LangChain, LangGraph, Model Context Protocol (MCP), PEFT, LoRA Fine-tuning, Prompt Engineering, Semantic Search, Vector Search, Embedding Models, Pydantic Schema Validation, Open-Source LLMs, Azure OpenAI.
+
+Programming Languages: Python, Java, JavaScript, C++, SQL.
+
+Backend Development and APIs: FastAPI, Node.js, Express.js, REST APIs, Apache Kafka, Role-Based Access Control (RBAC), JWT Authentication, Session Management.
+
+Frontend Development: React.js, Knockout.js, HTML5, CSS3.
+
+DevOps, Cloud, and Automation: Docker, Kubernetes, Microsoft Azure, Azure OpenAI, Azure AI Search, Mage AI, Git, CI/CD, GitHub Actions, Jenkins, Linux.
+
+Data Science and Core Computer Science: Pandas, NumPy, Data Structures, Algorithms, Object-Oriented Programming (OOP), SQL, Machine Learning, Feature Selection, Model Evaluation.
+
+PROFESSIONAL EXPERIENCE
+
+Role: Lead Engineer Company: HCLTech Location: Hyderabad, India Duration: July 2025 - Present
+
+Project: Clinical Document Intelligence (Oncology)
+
+Designed and deployed a semantic-search-based Retrieval-Augmented Generation (RAG) pipeline using LangGraph and Azure OpenAI GPT-4o to query unstructured clinical records.
+Developed structured patient data extraction workflows using Pydantic schemas.
+Engineered context-aware text chunking strategies and advanced prompt templates to reduce hallucinations and improve entity extraction accuracy by 22%.
+Automated AI workflow orchestration using Mage AI.
+Developed and deployed production-ready REST APIs using FastAPI and Docker.
+Implemented CI/CD automation using GitHub Actions.
+Applied semantic search and LLM-based information extraction to clinical document intelligence.
+
+Project: Enterprise AI Assistant (Confidential)
+
+Built and maintained a full-stack AI-powered employee support assistant using FastAPI and React.js.
+Integrated open-source Large Language Models, including LLaMA-2 and Mistral.
+Designed REST APIs, prompt templates, and session-aware conversation handling to improve response relevance.
+Implemented Role-Based Access Control (RBAC) and secure token-based access.
+Contributed to reducing employee query resolution time by 40% through AI-powered assistance and workflow automation.
+
+Client Project: Google Advertising Technology Support
+
+Troubleshot and resolved complex advertising delivery issues across Google Ad Manager (GAM), Ad Exchange, and AdMob.
+Optimized Google Publisher Tags (GPT) and ad rendering using JavaScript and browser developer tools.
+Investigated technical issues using HAR analysis, Charles logs, and API log debugging.
+Analyzed campaign delivery discrepancies involving targeting, pacing, and inventory.
+Investigated buyer bidding behavior, invalid traffic (IVT), and advertising match rates.
+Worked on optimizing advertising revenue and impression delivery by identifying and resolving technical and configuration issues.
+
+Role: Software Engineer Company: Veltris (Westagile IT Labs India Pvt. Ltd.) Location: Hyderabad, India Duration: May 2023 - July 2025
+
+Client: Hewlett Packard Enterprise (HPE)
+
+Project: HPE Aruba SD-WAN Orchestrator
+
+Developed new features, including dynamic tabs, for a responsive web application.
+Fixed application bugs and improved functionality using HTML5, CSS, JavaScript, Knockout.js, React.js, Java, and Node.js.
+Resolved more than 100 Jira tickets, including over 80 bugs and more than 10 new end-to-end features.
+Documented newly implemented features and technical changes in Confluence.
+Contributed to frontend and backend development for enterprise networking software.
+
+Role: Growth Intern Company: ShopDeck (BlitzScale Technologies) Location: Remote Duration: February 2023 - April 2023
+
+Conducted market research and analyzed customer data to identify growth and optimization opportunities.
+Performed profit and loss (P&L) analysis.
+Monitored and evaluated key performance metrics to measure progress toward business growth objectives.
+Applied data-driven analysis to support business decision-making and growth initiatives.
+
+PERSONAL PROJECTS
+
+Project: PDF Chatbot for Research Papers Category: Retrieval-Augmented Generation (RAG), LLM Applications Year: 2024 Technologies: Python, Streamlit, LangChain, LLaMA, Gemma, MiniLM, GritLM, Embedding Models, Semantic Search.
+
+Developed an interactive document question-answering system using Streamlit.
+Enabled users to upload research papers in PDF format and ask questions using natural language.
+Implemented a complete RAG pipeline for PDF parsing, text extraction, text chunking, embedding generation, and semantic retrieval.
+Used embedding models such as MiniLM and GritLM to generate vector representations of document content.
+Integrated LLMs, including Gemma and LLaMA, to generate context-aware answers based on retrieved document passages.
+Combined semantic search and LLM-based generation to answer questions grounded in uploaded research papers.
+Demonstrated practical knowledge of document processing, embeddings, retrieval, prompt engineering, and RAG application development.
+
+Project: Farm Produce Prediction System Category: Machine Learning and Agricultural Prediction Institution: IIT Guwahati Year: 2023 Technologies: Python, Scikit-learn, Multi-Layer Perceptron (MLP), K-Nearest Neighbors (KNN), Random Forest, Feature Selection.
+
+Developed a machine learning-based prediction model to estimate crop yield in rural Assam.
+Used six key agricultural input variables for crop yield prediction.
+Evaluated multiple machine learning algorithms, including MLP, KNN, and Random Forest.
+Performed feature selection to optimize prediction accuracy.
+Worked on the project under the guidance of Professor Ramagopal V. S. Uppaluri.
+
+ACHIEVEMENTS AND CERTIFICATIONS
+
+GATE 2021: Achieved All India Rank (AIR) 2628, placing in the top 2.6% among more than 100,000 candidates.
+
+National Cadet Corps (NCC):
+
+NCC 'C' Certificate with ALPHA grading, 2019.
+NCC 'B' Certificate with BETA grading, 2018.
+
+HOBBIES AND INTERESTS
+
+Table Tennis
+Basketball
+Running
+
+AREAS OF EXPERTISE
+
+Retrieval-Augmented Generation (RAG) Systems
+Large Language Model (LLM) Applications
+Semantic Search and Vector Retrieval
+Document Question Answering
+PDF Parsing and Document Chunking
+Embedding Models and Similarity Search
+LangChain and LangGraph
+Agentic AI and Multi-Agent Workflows
+Prompt Engineering and Context Management
+Structured Information Extraction
+Pydantic Schema Validation
+Azure OpenAI and Azure AI Search
+FastAPI and REST API Development
+Full-Stack Application Development
+React.js and Python
+Docker and CI/CD Automation
+Open-Source LLM Integration
+Machine Learning and Predictive Modeling
+Enterprise AI Assistants
+Workflow Automation
